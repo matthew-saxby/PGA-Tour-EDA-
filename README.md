@@ -1,2 +1,1 @@
-# README
-[Official README File](/README.pdf)
+# [README](/README.pdf)
